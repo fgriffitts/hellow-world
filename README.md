@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 github tutorial
 
 My name is Frank Griffitts.   I'm making this entry in the readme.md file as part of a tutorial provided by github on how to use branches.  This branch is hellow-world/readme.md.  It looks like I inadvertently misspelled "hello" when I typed in the name of this repository.  Typical.  
